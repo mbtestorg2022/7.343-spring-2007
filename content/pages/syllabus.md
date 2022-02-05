@@ -41,18 +41,177 @@ You are required to read both assigned papers and email to the instructor two qu
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Overview of the class, introduction to glia and use of Pubmed | &nbsp; |
-| 2 | Myelination in the peripheral nervous system (PNS): Schwann cells | &nbsp; |
-| 3 | Myelination in the central nervous system (CNS): Oligodendrocytes | &nbsp; |
-| 4 | The Nogo hypothesis | &nbsp; |
-| 5 | Neuregulin-1 and schizophrenia | &nbsp; |
-| 6 | Field trip | &nbsp; |
-| 7 | CNS Astrocytes, part I: Interactions with oligodendrocytes | &nbsp; |
-| 8 | CNS Astrocytes, part II: Neuromodulation and Alzheimer's disease | First term paper due |
-| 9 | CNS Astrocytes, part III: Synaptogenesis and epilepsy | &nbsp; |
-| 10 | CNS Astrocytes, part IV: The role of glial cells in adult neurogenesis | &nbsp; |
-| 11 | CNS Astrocytes, part V: Gliomas | &nbsp; |
-| 12 | Microglia of the CNS | &nbsp; |
-| 13 | 2nd assignment: Oral presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the class, introduction to glia and use of Pubmed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Myelination in the peripheral nervous system (PNS): Schwann cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Myelination in the central nervous system (CNS): Oligodendrocytes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Nogo hypothesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Neuregulin-1 and schizophrenia
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+CNS Astrocytes, part I: Interactions with oligodendrocytes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+CNS Astrocytes, part II: Neuromodulation and Alzheimer's disease
+{{< tdclose >}}
+{{< tdopen >}}
+First term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+CNS Astrocytes, part III: Synaptogenesis and epilepsy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+CNS Astrocytes, part IV: The role of glial cells in adult neurogenesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+CNS Astrocytes, part V: Gliomas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Microglia of the CNS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+2nd assignment: Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
