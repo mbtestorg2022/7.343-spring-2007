@@ -7,6 +7,7 @@ description: 'Instructions for a research assignment and presentation. The prese
   and possible future applications of the research.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-343-neuron-glial-cell-interactions-in-biology-and-disease-spring-2007/bce4848871ce79c0c9c497519715dec4_assignment2inst.pdf
 file_type: application/pdf
+parent_uid: 8a368dc9-b950-0f49-8583-d4b341b15524
 resourcetype: Document
 title: Assignment 2 Instructions
 uid: bce48488-71ce-79c0-c9c4-97519715dec4
